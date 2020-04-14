@@ -6,15 +6,15 @@
 
 ##### 1.1 整理法（整理自己的知识）
 
-![整理法](C:\Users\krystal\Desktop\web\Frontend-01-Template\week01\static\整理法.PNG)
+![整理法](https://github.com/volewu/Frontend-01-Template/blob/master/week01/static/%E6%95%B4%E7%90%86%E6%B3%95.PNG?raw=true)
 
-#####1.2 追溯法（追溯事物的本源）![追溯法](C:\Users\krystal\Desktop\web\Frontend-01-Template\week01\static\追溯法.PNG)
+#####1.2 追溯法（追溯事物的本源）![追溯法](https://github.com/volewu/Frontend-01-Template/blob/master/week01/static/%E8%BF%BD%E6%BA%AF%E6%B3%95.PNG?raw=true)
 
 ####2、构架前端知识体系
 
 > 利用上面的学习方法完善自己前端知识体系
 
-[前端知识体系脑图链接](https://)
+[前端知识体系脑图链接](https://github.com/volewu/Frontend-01-Template/blob/master/week01/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF.png)
 
 #### 3、前端的工程体系 
 
@@ -30,7 +30,7 @@
 
 ##### 3.2 前端技术模型
 
-![前端技术模型](C:\Users\krystal\Desktop\web\Frontend-01-Template\week01\static\前端技术模型.PNG)
+![前端技术模型](https://github.com/volewu/Frontend-01-Template/blob/master/week01/static/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%A8%A1%E5%9E%8B.PNG?raw=true)
 
 * 编程能力：（能不能做出来）
 * 架构能力：（做多大的规模）
