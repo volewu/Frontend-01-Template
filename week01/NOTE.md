@@ -8,9 +8,9 @@
 
 ![整理法](https://github.com/volewu/Frontend-01-Template/blob/master/week01/static/%E6%95%B4%E7%90%86%E6%B3%95.PNG?raw=true)
 
-#####1.2 追溯法（追溯事物的本源）![追溯法](https://github.com/volewu/Frontend-01-Template/blob/master/week01/static/%E8%BF%BD%E6%BA%AF%E6%B3%95.PNG?raw=true)
+##### 1.2 追溯法（追溯事物的本源）![追溯法](https://github.com/volewu/Frontend-01-Template/blob/master/week01/static/%E8%BF%BD%E6%BA%AF%E6%B3%95.PNG?raw=true)
 
-####2、构架前端知识体系
+#### 2、构架前端知识体系
 
 > 利用上面的学习方法完善自己前端知识体系
 
@@ -18,7 +18,7 @@
 
 #### 3、前端的工程体系 
 
-#####3.1 职业规划
+##### 3.1 职业规划
 
 > You are the owner of your career.
 
@@ -36,6 +36,6 @@
 * 架构能力：（做多大的规模）
 * 工程能力：（多少人一起做）
 
-####4、个人感悟
+#### 4、个人感悟
 
 > 通过这周的学习，了解到自己有很多的不足，还需要努力学习，特别是自己的职业规划，自己的职业根本就想不明白，需要自己认真的思考了。
