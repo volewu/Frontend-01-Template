@@ -119,7 +119,7 @@
 
 ##### 1.2 Type Convertion
 
-![Type Convertion](C:\Users\krystal\Desktop\web\Frontend-01-Template\week03\static\Type Convertion.PNG)
+![Type Convertion](https://github.com/volewu/Frontend-01-Template/blob/master/week03/static/Type%20Convertion.PNG)
 
 - Boxing & UnBoxing
 
