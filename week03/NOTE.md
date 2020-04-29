@@ -1,8 +1,8 @@
-# 每周总结可以写在这里
+# 每周总结可以写在这里(4.20-4.26)
 
 
 
-#### 1、表达式（Expressions）
+#### 1. 表达式（Expressions）
 
 ##### 1.1 Grammar
 
@@ -119,44 +119,58 @@
 
 ##### 1.2 Type Convertion
 
-![Type Convertion](C:\Users\F1330756.SYSTEMPLUS\Desktop\Type Convertion.PNG)
+![Type Convertion](C:\Users\krystal\Desktop\web\Frontend-01-Template\week03\static\Type Convertion.PNG)
 
 - Boxing & UnBoxing
 
 #### 2. 语句
 
-- 2.1 Grammar
+##### 2.1 Grammar
 
-  - 简单语句
+- 简单语句
 
-    - ExpressionStatement      `a = 1 +2 `
-    - EmptyStatement              `;`
-    - DebuggerStatement        `debugger;`
-    - ThrowStatement               `throw`
-    - ContinueStatement         `continue lable1`
-    - BreakStatement               `break lable2`
-    - ReturnStatement             `return 1 + 2`
+  - ExpressionStatement      `a = 1 +2 `
+  - EmptyStatement              `;`
+  - DebuggerStatement        `debugger;`
+  - ThrowStatement               `throw`
+  - ContinueStatement         `continue lable1`
+  - BreakStatement               `break lable2`
+  - ReturnStatement             `return 1 + 2`
 
-  - 组合语句
+- 组合语句
 
-    - BlockStatement        (执行到非 normal, 后面将不会执行)
-    - IfStatement
-    - SwitchStatement
-    - IterationStatement 
+  - BlockStatement        (执行到非 normal, 后面将不会执行)
+  - IfStatement
+  - SwitchStatement
+  - IterationStatement 
 
-    - WithStatement
-    - LablelledStatement
-    - TryStatement
+  - WithStatement
+  - LablelledStatement
+  - TryStatement
 
-  - 声明
+  ##### 2.2 声明
 
-- 2.2 Runtime
+  * FunctionDeclaration
+  * GeneratorDeclaration
+  * AsyncFunctionDeclaration
+  * AsyncGeneratorDeclaration
+  * VariableStatement
+  * ClassDeclaration
+  * LexicalDeclaration
 
-  - Completion Record (语句完成的记录)
-    - [[type]]: normal, break, continue, return, or thorw
-    - [[value]]: Types
-    - [[target]]: lable   （跟循环相关，语句完成状态的描述）
-  - Lexical Enviorment
+##### 2.3 Runtime
+
+- Completion Record (语句完成的记录)
+  - [[type]]: normal, break, continue, return, or thorw
+  - [[value]]: Types
+  - [[target]]: lable   （跟循环相关，语句完成状态的描述）
+- Lexical Enviorment
+
+
+
+#### 3. Object
+
+
 
 
 
