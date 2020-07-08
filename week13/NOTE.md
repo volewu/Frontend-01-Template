@@ -31,4 +31,4 @@
 
   * Lifecycle
 
-  ![捕获](E:\资料\重学前端\Demo13\捕获.PNG)
+  ![捕获](https://github.com/volewu/Frontend-01-Template/blob/master/week13/%E6%8D%95%E8%8E%B7.PNG)
